@@ -1,0 +1,21 @@
+{
+  "name": "@ali_ahmed999/oop_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
